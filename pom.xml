@@ -4,7 +4,7 @@
     <groupId>com.levo.dockerexample</groupId>
     <artifactId>docker-java-app-example-sailohith</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>3.0.1-SNAPSHOT</version>
     <name>docker-java-app-example</name>
     <url>http://maven.apache.org</url>
 
